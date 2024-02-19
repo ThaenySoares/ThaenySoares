@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou a Thaeny!</h1>
-<h3 align="center">Apaixonada por ciência e análise de Dados</h3>
+<h3 align="center">Apaixonada por análise de Dados</h3>
 
 - 🔭 Atualmente estou trabalhando com análise e visualização **no Power BI**
 
