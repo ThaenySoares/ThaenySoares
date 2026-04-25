@@ -1,17 +1,16 @@
 <h1 align="center">Oi 👋, Eu sou a Thaeny!</h1>
 <h3 align="center">Apaixonada por análise de Dados</h3>
 
-- 🔭 Atualmente estou trabalhando com análise e visualização **no Power BI**
+## Oi 👋, eu sou a Thaeny!
 
-- 🌱 Atualmente estou aprendendo **Análise de dados com SQL**
+📊 Focada em análise e visualização de dados  
+💻 Desenvolvendo também projetos web para aplicar soluções na prática  
 
-- 💬 Me pergunte sobre **SQL, Power BI, Excel e Python**
-
-- 📫 Você me acha através do e-mail **thaeny10@gmail.com**
-
-- 📄 Conheça as minha experiências: [linkedin.com/in/thaenysoares1](linkedin.com/in/thaenysoares1)
-
-<h3 align="left">Connect with me:</h3>
+- 🔭 Atualmente trabalhando com análise e visualização no Power BI  
+- 🌱 Aprendendo análise de dados com SQL  
+- 💻 Tecnologias: SQL, Power BI, Excel, Python, HTML, CSS e JavaScript  
+- 📫 Contato: thaeny10@gmail.com  
+- 🔗 LinkedIn: linkedin.com/in/thaenysoares1  
 <p align="left">
 <a href="https://linkedin.com/in/https://br.linkedin.com/in/thaenysoares1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://br.linkedin.com/in/thaenysoares1" height="30" width="40" /></a>
 </p>
